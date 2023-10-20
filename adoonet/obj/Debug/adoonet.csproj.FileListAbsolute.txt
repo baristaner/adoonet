@@ -1,0 +1,13 @@
+C:\Users\IŞIK\source\repos\adoonet\adoonet\bin\Debug\adoonet.exe.config
+C:\Users\IŞIK\source\repos\adoonet\adoonet\bin\Debug\adoonet.exe
+C:\Users\IŞIK\source\repos\adoonet\adoonet\bin\Debug\adoonet.pdb
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.csproj.AssemblyReference.cache
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.csproj.SuggestedBindingRedirects.cache
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.Form1.resources
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.Properties.Resources.resources
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.csproj.GenerateResource.cache
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.csproj.CoreCompileInputs.cache
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.exe
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.pdb
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.ogrekle.resources
+C:\Users\IŞIK\source\repos\adoonet\adoonet\obj\Debug\adoonet.ogrlistele.resources
